@@ -5,8 +5,8 @@ namespace Z.Phone2Region.Net
 {
 
     /// <summary>
-    /// Phone2Region异常类
-    /// <para>@createDate 2024/1/26 11:11:11</para>
+    /// Phone2Region异常
+    /// <para>@createDate 2024/12/04 11:11:11</para>
     /// <para>@author ALI[ali-k@foxmail.com]</para>
     /// <para>@since 1.0.0</para>
     /// </summary>

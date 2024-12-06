@@ -58,5 +58,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Z.Phone2Region.Net\Z.Phone2Region.Net.csproj">
+      <Project>{53492468-82d6-4dac-bfd5-5876a653e719}</Project>
+      <Name>Z.Phone2Region.Net</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

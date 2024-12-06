@@ -3,10 +3,10 @@ namespace Z.Phone2Region.Net
 
     /// <summary>
     /// CRC32
-    /// <para>@createDate 2024/1/26 11:11:11</para>
+    /// <para>@createDate 2024/12/04 11:11:11</para>
     /// <para>@author ALI[ali-k@foxmail.com]</para>
     /// <para>@since 1.0.0</para>
-    /// <see cref="https://github.com/nodeca/pako/blob/master/lib/zlib/crc32.js"/>
+    /// <see href="https://github.com/nodeca/pako/blob/master/lib/zlib/crc32.js"/>
     /// </summary>
     public class Crc32
     {

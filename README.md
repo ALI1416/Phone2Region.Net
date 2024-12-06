@@ -1,4 +1,4 @@
-# Phone Number To Region For Net 手机号码转区域.Net版
+# Phone Number To Region For .Net 手机号码转区域.Net版
 
 [![License](https://img.shields.io/github/license/ALI1416/Phone2Region.Net?label=License)](https://www.apache.org/licenses/LICENSE-2.0.txt)
 [![.Net Support](https://img.shields.io/badge/.NET%20Standard-2.0+-green)](https://openjdk.org/)
@@ -10,7 +10,7 @@
 
 ## 简介
 
-本项目迁移自[ALI1416/phone2region](https://github.com/ALI1416/phone2region)，构建后`Z.Phone2Region.Net.dll`文件仅`8kb`
+本项目迁移自[ALI1416/phone2region](https://github.com/ALI1416/phone2region)，构建后`Z.Phone2Region.Net.dll`文件仅`9kb`
 
 ## 数据文件
 

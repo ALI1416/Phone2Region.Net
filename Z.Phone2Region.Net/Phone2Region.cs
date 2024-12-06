@@ -9,7 +9,7 @@ namespace Z.Phone2Region.Net
 
     /// <summary>
     /// 手机号码转区域
-    /// <para>@createDate 2024/1/26 11:11:11</para>
+    /// <para>@createDate 2024/12/04 11:11:11</para>
     /// <para>@author ALI[ali-k@foxmail.com]</para>
     /// <para>@since 1.0.0</para>
     /// </summary>
@@ -88,7 +88,7 @@ namespace Z.Phone2Region.Net
         /// <summary>
         /// 初始化实例
         /// </summary>
-        /// <param name="binaryReader">压缩的zdb流</param>
+        /// <param name="stream">压缩的zdb流</param>
         public static void init(Stream stream)
         {
             if (isInit)

@@ -3,7 +3,7 @@ namespace Z.Phone2Region.Net
 
     /// <summary>
     /// 区域
-    /// <para>@createDate 2024/1/26 11:11:11</para>
+    /// <para>@createDate 2024/12/04 11:11:11</para>
     /// <para>@author ALI[ali-k@foxmail.com]</para>
     /// <para>@since 1.0.0</para>
     /// </summary>
@@ -32,7 +32,7 @@ namespace Z.Phone2Region.Net
         public string isp { get; set; }
 
         /// <summary>
-        /// 构造函数
+        /// 构造区域
         /// </summary>
         public Region() { }
 
